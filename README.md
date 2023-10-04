@@ -1,4 +1,4 @@
 # MyTechBlog
 This is my first Git Repository
 <br>
-i did some change which is successfuly done
+i did some change which is successfuly.
