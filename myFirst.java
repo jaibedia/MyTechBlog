@@ -23,6 +23,7 @@ class Sleep extends Thread{
        Sleep sleep = new Sleep();
        sleep.setPriority(10);
        sleep.start();
+       System.out.println("end main");
     }
 
 }
